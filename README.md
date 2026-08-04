@@ -52,6 +52,14 @@ I write up the things I notice as I go, not tutorials, mostly observations, at [
 
 <div align="center">
 
+<!--
+  KNOWN ISSUE (2026-08-04): the two github-readme-stats.vercel.app cards below render
+  as bare links with no image. The shared public demo deployment is returning
+  503 DEPLOYMENT_PAUSED (Vercel usage limits on the shared instance - happens
+  periodically to this project). streak-stats below is unaffected.
+  Revisit: check if the deployment is back, or self-host via a personal Vercel
+  fork of https://github.com/anuraghazra/github-readme-stats if it recurs.
+-->
 <!-- GitHub stats card + top languages side-by-side -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=abukix&show_icons=true&hide_border=true&title_color=a855f7&icon_color=ec4899&text_color=e8e8ef&bg_color=0d0d12&include_all_commits=true&count_private=true" alt="abukix's GitHub stats" />
