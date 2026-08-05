@@ -200,14 +200,6 @@ I write up the things I notice as I go, not tutorials, mostly observations, at [
 
 ---
 
-## 🤖 AI Assisted Development
-
-This project is open-source and maintained by a human, but it heavily leverages
-**Claude Code** as an AI development assistant to accelerate scaffolding,
-refactoring, and testing. All code is human-reviewed and verified before merging.
-
----
-
 <div align="center">
 
 *"stillness between commits."*
