@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150" fill="none" role="img" aria-label="abukix — connected node mark">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="150" y2="150" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="0.5" stop-color="#ec4899"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="150" height="150" rx="24" fill="#0a0a0a"/>
+
+  <!-- scaled 2.34375x from portfolio's public/favicon.svg (64x64 source) -->
+  <g transform="scale(2.34375)">
+    <g stroke="url(#brand)" stroke-width="3" stroke-linecap="round">
+      <line x1="20" y1="18" x2="44" y2="18"/>
+      <line x1="20" y1="18" x2="32" y2="32"/>
+      <line x1="44" y1="18" x2="32" y2="32"/>
+      <line x1="32" y1="32" x2="20" y2="46"/>
+      <line x1="32" y1="32" x2="44" y2="46"/>
+    </g>
+    <g fill="url(#brand)">
+      <circle cx="20" cy="18" r="6"/>
+      <circle cx="44" cy="18" r="6"/>
+      <circle cx="32" cy="32" r="6"/>
+      <circle cx="20" cy="46" r="6"/>
+      <circle cx="44" cy="46" r="6"/>
+    </g>
+  </g>
+</svg>

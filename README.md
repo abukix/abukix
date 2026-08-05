@@ -6,8 +6,10 @@
 <div align="center">
 
   <a href="https://abukix.dev">
-    <img src="./assets/banner.svg" alt="abukix" width="324">
+    <img src="./assets/logo.svg" alt="abukix connected node mark" width="120">
   </a>
+
+# `abukix`
 
 </div>
 
